@@ -1,0 +1,10 @@
+{
+    "name": "node.js",
+    "dockerComposeFile": [
+        "../compose-dev.yaml",
+        "compose.yaml"
+    ],
+    "service": "dev",
+    "workspaceFolder": "/workspace",
+    "onCreateCommand": "./.devcontainer/install-dev-tools"
+}

@@ -18,6 +18,7 @@ Find all the input controls in the ‘RFC3106 ECLM eCommerce fields’ and ‘Am
 Find the HTML autocomplete spec.  This WHATWG Living Spec describes the ‘autocomplete’ attribute of html inputs/controls.
 
 The output of this task is a JSON hash containing:
+
 - the key of each element in the hash will be the ‘name’ attribute of the control.
 - the corresponding value for each control name key will be an ‘autofill detail token’ describing your best guess at the most suitable section (optional), address type (optional) and autofill field name for the control as per the WHATWG autofill spec.
 
