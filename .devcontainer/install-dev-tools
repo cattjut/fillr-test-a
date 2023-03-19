@@ -1,2 +1,5 @@
+#!/usr/bin/env bash
+
 apt update && apt install git -y
 npm install
+# npm install puppeteer --save

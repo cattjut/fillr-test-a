@@ -4,7 +4,7 @@ _These two tasks are separate, they do not depend on each other in any way other
 
 Prerequisites
 
-- node.js V4 or greater with npm
+- node.js V4 or greater with npm (Installed peppeteer using command  npm install puppeteer --save)
 - git
 - internet connection
 - linux OS
