@@ -5,12 +5,22 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Run",
+            "name": "RunTests",
             "type": "node",
             "request": "launch",
             "program": "/workspace/node_modules/mocha/bin/mocha",
             "args": [
                 "test/test.js"
+            ]
+        },
+        {
+            "name": "DebugTests",
+            "type": "node",
+            "request": "launch",
+            "program": "/workspace/run_form_mapping.js",
+            "sourceMaps": true,
+            "outFiles": [
+                "${workspaceFolder}/dist/**/*.js"
             ]
         }
     ]
