@@ -1,1 +1,337 @@
-// Paste formatted JSON hash here. 
+{
+  "email": {
+    "Section Type": "email",
+    "Adress Type": null,
+    "Autofill Field Name": "email"
+  },
+  "name": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": null
+  },
+  "addr1": {
+    "Section Type": "address",
+    "Adress Type": "HOME",
+    "Autofill Field Name": "address-line1"
+  },
+  "addr2": {
+    "Section Type": "address",
+    "Adress Type": "HOME",
+    "Autofill Field Name": "address-line1"
+  },
+  "city": {
+    "Section Type": "address",
+    "Adress Type": "HOME",
+    "Autofill Field Name": "address-line1"
+  },
+  "state": {
+    "Section Type": "address",
+    "Adress Type": "HOME",
+    "Autofill Field Name": "address-line1"
+  },
+  "zip": {
+    "Section Type": "address",
+    "Adress Type": "HOME",
+    "Autofill Field Name": "address-line1"
+  },
+  "country": {
+    "Section Type": "address",
+    "Adress Type": "HOME",
+    "Autofill Field Name": "country"
+  },
+  "phone": {
+    "Section Type": "phone",
+    "Adress Type": null,
+    "Autofill Field Name": "tel"
+  },
+  "Ecom_ShipTo_Postal_Name_Prefix": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "honorific-prefix"
+  },
+  "Ecom_ShipTo_Postal_Name_First": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "given-name"
+  },
+  "Ecom_ShipTo_Postal_Name_Middle": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "additional-name"
+  },
+  "Ecom_ShipTo_Postal_Name_Last": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "family-name"
+  },
+  "Ecom_ShipTo_Postal_Name_Suffix": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "honorific-suffix"
+  },
+  "Ecom_ShipTo_Postal_Company": {
+    "Section Type": "organization",
+    "Adress Type": null,
+    "Autofill Field Name": "organization"
+  },
+  "Ecom_ShipTo_Postal_Street_Line1": {
+    "Section Type": "address",
+    "Adress Type": "SHIPPING",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_ShipTo_Postal_Street_Line2": {
+    "Section Type": "address",
+    "Adress Type": "SHIPPING",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_ShipTo_Postal_Street_Line3": {
+    "Section Type": "address",
+    "Adress Type": "SHIPPING",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_ShipTo_Postal_City": {
+    "Section Type": "address",
+    "Adress Type": "SHIPPING",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_ShipTo_Postal_StateProv": {
+    "Section Type": "address",
+    "Adress Type": "SHIPPING",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_ShipTo_Postal_PostalCode": {
+    "Section Type": "address",
+    "Adress Type": "SHIPPING",
+    "Autofill Field Name": "postal-code"
+  },
+  "Ecom_ShipTo_Postal_CountryCode": {
+    "Section Type": "address",
+    "Adress Type": "SHIPPING",
+    "Autofill Field Name": "country"
+  },
+  "Ecom_ShipTo_Telecom_Phone_Number": {
+    "Section Type": "phone",
+    "Adress Type": null,
+    "Autofill Field Name": "tel"
+  },
+  "Ecom_ShipTo_Online_Email": {
+    "Section Type": "email",
+    "Adress Type": null,
+    "Autofill Field Name": "email"
+  },
+  "Ecom_BillTo_Postal_Name_Prefix": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "honorific-prefix"
+  },
+  "Ecom_BillTo_Postal_Name_First": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "given-name"
+  },
+  "Ecom_BillTo_Postal_Name_Middle": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "additional-name"
+  },
+  "Ecom_BillTo_Postal_Name_Last": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "family-name"
+  },
+  "Ecom_BillTo_Postal_Name_Suffix": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "honorific-suffix"
+  },
+  "Ecom_BillTo_Postal_Company": {
+    "Section Type": "organization",
+    "Adress Type": null,
+    "Autofill Field Name": "organization"
+  },
+  "Ecom_BillTo_Postal_Street_Line1": {
+    "Section Type": "address",
+    "Adress Type": "BILLING",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_BillTo_Postal_Street_Line2": {
+    "Section Type": "address",
+    "Adress Type": "BILLING",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_BillTo_Postal_Street_Line3": {
+    "Section Type": "address",
+    "Adress Type": "BILLING",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_BillTo_Postal_City": {
+    "Section Type": "address",
+    "Adress Type": "BILLING",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_BillTo_Postal_StateProv": {
+    "Section Type": "address",
+    "Adress Type": "BILLING",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_BillTo_Postal_PostalCode": {
+    "Section Type": "address",
+    "Adress Type": "BILLING",
+    "Autofill Field Name": "postal-code"
+  },
+  "Ecom_BillTo_Postal_CountryCode": {
+    "Section Type": "address",
+    "Adress Type": "BILLING",
+    "Autofill Field Name": "country"
+  },
+  "Ecom_BillTo_Telecom_Phone_Number": {
+    "Section Type": "phone",
+    "Adress Type": null,
+    "Autofill Field Name": "tel"
+  },
+  "Ecom_BillTo_Online_Email": {
+    "Section Type": "email",
+    "Adress Type": null,
+    "Autofill Field Name": "email"
+  },
+  "Ecom_ReceiptTo_Postal_Name_Prefix": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "honorific-prefix"
+  },
+  "Ecom_ReceiptTo_Postal_Name_First": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "given-name"
+  },
+  "Ecom_ReceiptTo_Postal_Name_Middle": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "additional-name"
+  },
+  "Ecom_ReceiptTo_Postal_Name_Last": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "family-name"
+  },
+  "Ecom_ReceiptTo_Postal_Name_Suffix": {
+    "Section Type": "name",
+    "Adress Type": null,
+    "Autofill Field Name": "honorific-suffix"
+  },
+  "Ecom_ReceiptTo_Postal_Company": {
+    "Section Type": "organization",
+    "Adress Type": null,
+    "Autofill Field Name": "organization"
+  },
+  "Ecom_ReceiptTo_Postal_Street_Line1": {
+    "Section Type": "address",
+    "Adress Type": "RECEIPT",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_ReceiptTo_Postal_Street_Line2": {
+    "Section Type": "address",
+    "Adress Type": "RECEIPT",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_ReceiptTo_Postal_Street_Line3": {
+    "Section Type": "address",
+    "Adress Type": "RECEIPT",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_ReceiptTo_Postal_City": {
+    "Section Type": "address",
+    "Adress Type": "RECEIPT",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_ReceiptTo_Postal_StateProv": {
+    "Section Type": "address",
+    "Adress Type": "RECEIPT",
+    "Autofill Field Name": "address-line1"
+  },
+  "Ecom_ReceiptTo_Postal_PostalCode": {
+    "Section Type": "address",
+    "Adress Type": "RECEIPT",
+    "Autofill Field Name": "postal-code"
+  },
+  "Ecom_ReceiptTo_Postal_CountryCode": {
+    "Section Type": "address",
+    "Adress Type": "RECEIPT",
+    "Autofill Field Name": "country"
+  },
+  "Ecom_ReceiptTo_Telecom_Phone_Number": {
+    "Section Type": "phone",
+    "Adress Type": null,
+    "Autofill Field Name": "tel"
+  },
+  "Ecom_ReceiptTo_Online_Email": {
+    "Section Type": "email",
+    "Adress Type": null,
+    "Autofill Field Name": "email"
+  },
+  "Ecom_Payment_Card_Name": {
+    "Section Type": "card information",
+    "Adress Type": null,
+    "Autofill Field Name": "cc-name"
+  },
+  "Ecom_Payment_Card_Type": {
+    "Section Type": "card information",
+    "Adress Type": null,
+    "Autofill Field Name": "cc-type"
+  },
+  "Ecom_Payment_Card_Number": {
+    "Section Type": "card information",
+    "Adress Type": null,
+    "Autofill Field Name": "cc-number"
+  },
+  "Ecom_Payment_Card_Verification": {
+    "Section Type": "card information",
+    "Adress Type": null,
+    "Autofill Field Name": "cc-csc"
+  },
+  "Ecom_Payment_Card_ExpDate_Day": {
+    "Section Type": "card information",
+    "Adress Type": null,
+    "Autofill Field Name": "cc-exp"
+  },
+  "Ecom_Payment_Card_ExpDate_Month": {
+    "Section Type": "card information",
+    "Adress Type": null,
+    "Autofill Field Name": "cc-exp-month"
+  },
+  "Ecom_Payment_Card_ExpDate_Year": {
+    "Section Type": "card information",
+    "Adress Type": null,
+    "Autofill Field Name": "cc-exp-year"
+  },
+  "Ecom_Payment_Card_Protocol": {
+    "Section Type": "card information",
+    "Adress Type": null,
+    "Autofill Field Name": null
+  },
+  "Ecom_ConsumerOrderID": {
+    "Section Type": null,
+    "Adress Type": null,
+    "Autofill Field Name": null
+  },
+  "Ecom_User_ID": {
+    "Section Type": null,
+    "Adress Type": null,
+    "Autofill Field Name": null
+  },
+  "Ecom_User_Password": {
+    "Section Type": "password",
+    "Adress Type": null,
+    "Autofill Field Name": "password"
+  },
+  "Ecom_SchemaVersion": {
+    "Section Type": null,
+    "Adress Type": null,
+    "Autofill Field Name": null
+  },
+  "Ecom_WalletID": {
+    "Section Type": null,
+    "Adress Type": null,
+    "Autofill Field Name": null
+  }
+}
